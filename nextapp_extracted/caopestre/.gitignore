@@ -1,0 +1,14 @@
+# dependencies
+/node_modules
+
+# next.js
+/.next/
+/out/
+
+# env / logs / os
+.env*
+*.log
+.DS_Store
+
+# IMPORTANTE: a pasta public/ e as imagens DEVEM ir para o Git/Vercel.
+# Não adicione 'public' nem '*.png' aqui.

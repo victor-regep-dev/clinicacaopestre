@@ -1,0 +1,7 @@
+/node_modules
+/.next/
+/out/
+.env*
+*.log
+.DS_Store
+# public/ e *.png DEVEM ir para o Git/Vercel
