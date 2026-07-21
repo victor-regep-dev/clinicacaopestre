@@ -35,7 +35,7 @@ export default function Hero() {
         <div className="reveal md:absolute md:right-0 md:bottom-8 bg-petrol-dark/85 backdrop-blur-md border border-white/15 rounded-2xl px-7 py-5 flex flex-wrap gap-10 shadow-soft z-20 mb-10 md:mb-0">
           <div>
             <small className="flex items-center gap-2 text-[0.64rem] tracking-[0.13em] uppercase text-brand-orange font-bold mb-2">🕗 Horário de Atendimento</small>
-            <strong className="block text-[0.88rem] font-medium leading-relaxed text-white/95">Segunda a Sexta-feira<br />das 8h às 20h<br />Sábados das 8h às 17h<br />Domingos: fechado</strong>
+            <strong className="block text-[0.88rem] font-medium leading-relaxed text-white/95">Segunda a Sexta-feira<br />das 9h às 18h<br />Sábados das 9h às 18h<br />Domingos: fechado</strong>
           </div>
           <div>
             <small className="flex items-center gap-2 text-[0.64rem] tracking-[0.13em] uppercase text-brand-orange font-bold mb-2">📍 Onde Estamos</small>
