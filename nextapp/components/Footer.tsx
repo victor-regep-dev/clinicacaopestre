@@ -1,4 +1,4 @@
-import Image from "next/image";
+﻿import Image from "next/image";
 import { WHATSAPP, PHONE_DISPLAY } from "@/lib/site";
 export default function Footer() {
   return (
@@ -19,7 +19,7 @@ export default function Footer() {
           </div>
           <div>
             <h4 className="text-white text-[0.95rem] mb-4 font-bold">Atendimento</h4>
-            <ul className="flex flex-col gap-2.5 text-[0.9rem] list-none"><li>Segunda a Sexta-feira</li><li>das 9h às 18h</li><li>Sábados das 9h às 18h</li><li>Domingos: fechado</li></ul>
+            <ul className="flex flex-col gap-2.5 text-[0.9rem] list-none"><li>Segunda a Sexta-feira</li><li>das 9h às 20h</li><li>Sábados das 9h às 18h</li><li>Domingos: fechado</li></ul>
           </div>
           <div>
             <h4 className="text-white text-[0.95rem] mb-4 font-bold">Localização</h4>
